@@ -80,9 +80,8 @@ export default function BirthdayWish() {
         <Card className="mx-auto overflow-hidden transition-all duration-300 ease-in-out hover:shadow-xl border-2 border-black">
           {/* Card header with birthday message */}
           <CardHeader className="text-center">
-            <CardTitle className="text-4xl font-bold text-black">Happy 26th Birthday!</CardTitle>
-            <CardDescription className="text-2xl font-semibold text-gray-600">Fatima</CardDescription>
-            <p className="text-lg text-gray-500">May 17th</p>
+            <CardTitle className="text-4xl font-bold text-black">Happy Birthday!</CardTitle>
+          
           </CardHeader>
           {/* Card content with candles and balloons */}
           <CardContent className="space-y-6 text-center">
